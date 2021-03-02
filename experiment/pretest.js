@@ -1,4 +1,4 @@
- /////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////
 
  /////////////////////// Do not modify the below code ////////////////////////
 
@@ -89,23 +89,67 @@
 
 
      const myQuestions = [{
-            question: "1.This is a sample question:", ///// Write the question inside double quotes
+            question: "1. How does polarized light differ from the ordinary light? ", ///// Write the question inside double quotes
             answers: {
-                a: "This is a sample answer A", ///// Write the option 1 inside double quotes
-                b: "This is a sample answer B", ///// Write the option 2 inside double quotes
+                a: "Polarized light have vibrations in single plane where as ordinary light have vibrations in more than one plane .", ///// Write the option 1 inside double quotes
+                b: "Polarized light have vibrations in more than one plane where as ordinary light have vibrations in single plane ", ///// Write the option 2 inside double quotes
+		c: "Polarized light and ordinary light wave have opposite vibrations in the space. ", ///// Write the option 2 inside double quotes
+		d: "Polarized light have vibrations at 90o to the ordinary light wave vibrations. ", ///// Write the option 2 inside double quotes
             },
             correctAnswer: "a" ///// Write the correct option inside double quotes
+     },
+
+	    question: "2. What do you understand by polarized light and the plane of polarization? ", ///// Write the question inside double quotes
+            answers: {
+                a: "Polarized light wave vibrations confined to single plane and plane of polarization is the plane in which the vector along which the light wave vibrates lies.", ///// Write the option 1 inside double quotes
+                b: "Polarized light wave vibrations confined to more than one plane and plane of polarization is the plane in which the vector along which the light wave vibrates lies. ", ///// Write the option 2 inside double quotes
+		c: "Polarized light wave vibrations confined to more than one plane and plane of polarization is the plane at right angle to the vector along which the light wave vibrates lies. ", ///// Write the option 2 inside double quotes
+		d: "Polarized light wave vibrations confined to single plane and plane of polarization is the plane at right angle to the vector along which the light wave vibrates lies ", ///// Write the option 2 inside double quotes
+            },
+            correctAnswer: "a" ///// Write the correct option inside double quotes
+			 },
+
+
+	   question: "3. What are the factors on which the optical activity of a substance depends?  ", ///// Write the question inside double quotes
+            answers: {
+                a: "Temperature, wavelength of light used, concentration of the substance.", ///// Write the option 1 inside double quotes
+                b: "Temperature, wavelength of light used, concentration of substance and length of polarimeter tube. ", ///// Write the option 2 inside double quotes
+		c: "Wavelength of light used and concentration of substance.", ///// Write the option 2 inside double quotes
+		d: "Temperature, wavelength of light used, and length of polarimeter tube. ", ///// Write the option 2 inside double quotes
+            },
+            correctAnswer: "b" ///// Write the correct option inside double quotes
         },
 
-    {
-      question: "<img src='images/8.PNG'><br>Identify the location of Secondary electron detector",  ///// Write the question inside double quotes
-      answers: {
-        a: "<img src='images/1b.png'>",                  ///// Write the option 1 inside double quotes
-        b: "<img src='images/1a.png'>",                  ///// Write the option 2 inside double quotes
-        c: "<img src='images/1c.PNG'>",      },
-      correctAnswer: "c"                ///// Write the correct option inside double quotes
-    },
 
+          question: "4. How does the optical activity depend on the state of the substance? ", ///// Write the question inside double quotes
+            answers: {
+                a: "If the compound is present in (+) form, it rotates plane polarized light in anticlockwise direction and if it is present in (-) form, it rotates plane polarized light in clockwise direction with equal magnitude.", ///// Write the option 1 inside double quotes
+                b: "If the compound is present in (+) form it rotates plane polarized light in clockwise direction and if it is present in (-) form, it rotates plane polarized light in anticlockwise direction with different magnitude. ", ///// Write the option 2 inside double quotes
+		c: "If the compound is present in (+) form it rotates plane polarized light in clockwise direction and if it is present in (-) form, it rotates plane polarized light in anticlockwise direction with same magnitude. ", ///// Write the option 2 inside double quotes
+		d: "Both rotates the plane polarized light in same direction with equal magnitude. ", ///// Write the option 2 inside double quotes
+            },
+            correctAnswer: "c" ///// Write the correct option inside double quotes
+        },
+
+         question: "5. Given that (R)-2-bromobutane has a specific rotation of -23.1o ,what is the specific rotation of (S)-2-bromobutane?  ", ///// Write the question inside double quotes
+            answers: {
+                a: "+20.1o.", ///// Write the option 1 inside double quotes
+                b: "+26.1o. ", ///// Write the option 2 inside double quotes
+		c: "+23.1o. ", ///// Write the option 2 inside double quotes
+		d: "+29.1o. ", ///// Write the option 2 inside double quotes
+            },
+            correctAnswer: "c" ///// Write the correct option inside double quotes
+        },  
+
+        question: "6.  Which isomer is dominant in a mixture of (R)- and (S)-2-bromobutane whose specific rotation was found to be -9.2o ? ", ///// Write the question inside double quotes
+            answers: {
+                a: "Both R and S enantiomers are found in equal proportions.", ///// Write the option 1 inside double quotes
+                b: "The negative sign indicates that the R enantiomer is the dominant one. ", ///// Write the option 2 inside double quotes
+		c: "The negative sign indicates that the S enantiomer is the dominant one. ", ///// Write the option 2 inside double quotes
+		d: "None of the above options are correct. ", ///// Write the option 2 inside double quotes
+            },
+            correctAnswer: "b" ///// Write the correct option inside double quotes
+        },
 
 
      ];
