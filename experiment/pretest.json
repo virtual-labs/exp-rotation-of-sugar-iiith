@@ -8,7 +8,7 @@
           },
 "correctAnswer":"a"},
 
-    {"question":"2. What do you understand by polarized light and the plane of polarization?",
+{"question":"2. What do you understand by polarized light and the plane of polarization?",
 "answers":{
             "a":"Polarized light wave vibrations confined to single plane and plane of polarization is the plane in which the vector along which the light wave vibrates lies.",
             "b":"Polarized light wave vibrations confined to more than one plane and plane of polarization is the plane in which the vector along which the light wave vibrates lies.",
@@ -35,7 +35,7 @@
           },
 "correctAnswer":"c"},
 
-    {"question":"5. Given that (R)-2-bromobutane has a specific rotation of -23.1o ,what is the specific rotation of (S)-2-bromobutane?",
+{"question":"5. Given that (R)-2-bromobutane has a specific rotation of -23.1o ,what is the specific rotation of (S)-2-bromobutane?",
 "answers":{
             "a":"+20.1<sup>o</sup>.",
             "b":"+26.1<sup>o</sup>.",
