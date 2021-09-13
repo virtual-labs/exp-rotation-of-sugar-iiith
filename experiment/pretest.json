@@ -24,34 +24,6 @@
             "c":"Wavelength of light used and concentration of substance.",
             "d":"Temperature, wavelength of light used, and length of polarimeter tube."
           },
-"correctAnswer":"b"}, 
-
-{"question":"4. How does the optical activity depend on the state of the substance?",
-"answers":{
-            "a":"If the compound is present in (+) form, it rotates plane polarized light in anticlockwise direction and if it is present in (-) form, it rotates plane polarized light in clockwise direction with equal magnitude.",
-            "b":"If the compound is present in (+) form it rotates plane polarized light in clockwise direction and if it is present in (-) form, it rotates plane polarized light in anticlockwise direction with different magnitude.",
-            "c":"If the compound is present in (+) form it rotates plane polarized light in clockwise direction and if it is present in (-) form, it rotates plane polarized light in anticlockwise direction with same magnitude.",
-            "d":"Both rotates the plane polarized light in same direction with equal magnitude."
-          },
-"correctAnswer":"c"},
-
-{"question":"5. Given that (R)-2-bromobutane has a specific rotation of -23.1o ,what is the specific rotation of (S)-2-bromobutane?",
-"answers":{
-            "a":"+20.1<sup>o</sup>.",
-            "b":"+26.1<sup>o</sup>.",
-            "c":"+23.1<sup>o</sup>.",
-            "d":"+29.1<sup>o</sup>."
-          },
-"correctAnswer":"c"},
-
-{"question":"6. Which isomer is dominant in a mixture of (R)- and (S)-2-bromobutane whose specific rotation was found to be -9.2<sup>o</sup> ?",
-"answers":{
-            "a":"Both R and S enantiomers are found in equal proportions.",
-            "b":"The negative sign indicates that the R enantiomer is the dominant one",
-            "c":"The negative sign indicates that the S enantiomer is the dominant one.",
-            "d":"None of the above options are correct."
-          },
 "correctAnswer":"b"}
-
 
 ]
