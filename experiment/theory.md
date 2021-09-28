@@ -56,11 +56,13 @@ temperature T (given in degrees Celsius) and wavelength λ (in nanometers).
 When using this equation, the concentration and the solvent are always provided in parentheses after the rotation. The rotation is reported using degrees, and no units of concentration are given (it is assumed to be g/100mL).
 
 **Functioning of the polarimeter**
+<br/>
+a
 
-a  
 <img src="images/img3.jpg" height="500">
 
-b  
+b
+
 <img src="images/img4.jpg" height7="500">
 
 
