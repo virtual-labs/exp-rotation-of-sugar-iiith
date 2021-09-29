@@ -30,18 +30,21 @@ ix. Click on open record form and note down all the 4 different αobs angles whe
 - Click on save form and perform calculations and choose the appropriate identity of the unknown sugar you have used in the experiment.  
 - Either click on "Click to restart the experiment" and follow the instructions from step 3 or "Click to try with same sample sugar" and follow the instructions from step 3, substep (ii).  
 
+| Chemical name | Specific rotation[Â£\]20D |  
+|:--|:--| 
+| D-glucose |+52.7  | 
+| Lactose |+55.4  | 
+|D-fructose |	-92.4|
+|L-arabinose |	+104.5|
+|D-mannose 	|+14.2|
+|D-arabinose 	|+105.0|
+|D-xylose 	|+18.8|
+|D-galactose 	|+80.2|
+|Sucrose 	|+66.5 |
+|Maltose 	|+130.5 	|
+|Dextrin 	|+195|
 
-Chemical name 	Specific rotation[Â£\]20D
-D-glucose 	+52.7
-Lactose 	+55.4
-D-fructose 	-92.4
-L-arabinose 	+104.5
-D-mannose 	+14.2
-D-arabinose 	+105.0
-D-xylose 	+18.8
-D-galactose 	+80.2
-Sucrose 	+66.5 	Maltose 	+130.5 	Dextrin 	+195
-		
+
 ***NOTE:** While doing the experiments you will notice that if the maximum intensity of light is observed at x° degree, it is also observed at (180+ x)° degree. From a single experiment, it is not possible to infer which the value for total rotation αtotal actually is. Then again, the observation only tells us about the orientation of the plane of polarization of the emergent light relative to that of the incident light. However, one can not off hand say anything about what is the actual total rotation the plane has undergone. Thus, for example, the observation of maxima at x° and at (180 + x)° may mean that the value of αtotal could also be (360n + x) °; where n = 0, 1, 2, … Similarly, it could also be that αtotal is -(360 - x)° or –(360 - (180 + x))° depending on whether the rotation of the light has taken place in the anticlockwise or clockwise direction. For example if the maximum intensity is observed at α value of 30° and 210° , then could be any one of the values: 30°, 210°, -330°, -150° or even 7390° or 570°. To confirm the actual value of αtotal, one needs to repeat the experiment using different concentration and variable path lengths. Though there would be an ambiguity regarding the αtotal for each of these experiments, the correct choices would provide the same specific rotation [α]<sup>T</sup><sub>λ</sub> or [α]<sup>20</sup><sub>D</sub>
 
 [Sample data for the experiment](docs/Sampledataexp1.doc)
