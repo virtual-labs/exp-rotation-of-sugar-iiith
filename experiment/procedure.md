@@ -6,24 +6,24 @@ User will click on the virtual lab link (simulator).
 
 To know details regarding the instrumentation of the polarimeter.
 
-i.Click on "Know Your Polarimeter" option.  
-ii.Click on the Polarimeter to Zoom-in as indicated by an arrow.  
-iii.Click on the red button provided to switch on the polarimeter and to see the light source in the polarimeter instrument.  
-iv.Click on the panel indicated by arrow to open the sample chamber.  
-v.After you see 100% Intensity of the light coming through the eye piece at α<sup>20</sup><sub>D</sub> then click Continue.  
-vi.Click on the button "click to record experiment without login" to perform an experiment and further follow instructions as detailed in step 3.  
+i. Click on "Know Your Polarimeter" option.  
+ii. Click on the Polarimeter to Zoom-in as indicated by an arrow.  
+iii. Click on the red button provided to switch on the polarimeter and to see the light source in the polarimeter instrument.  
+iv. Click on the panel indicated by arrow to open the sample chamber.  
+v. After you see 100% Intensity of the light coming through the eye piece at α<sup>20</sup><sub>D</sub> then click Continue.  
+vi. Click on the button "click to record experiment without login" to perform an experiment and further follow instructions as detailed in step 3.  
 
 To directly perform an experiment using the polarimeter.  
 
-i.Click on any of the 6 sugar sample in the bottles on the shelves.  
-ii.Type in the amount of sugar (in gm/100mL) that you want to use for the experiment in the text box provided and then presses enter on the keyboard.  
-iii.Click on one of the sample cells to transfer the prepared sugar solution into a cell of particular path length.  
-iv.After transferring the contents into the sample cell, click on the sample cell to place it into the polarimeter's sample chamber.  
-v.Click on the power button to switch on the polarimeter to record the optical rotation of the sample.  
-vi.To rotate the dial of the eye piece in clockwise direction click on '+' button and for anticlockwise direction click on '-' button.  
-vii.To change the Increment Factor click on the IF* buttons 1, 5 or 10 accordingly.  
-viii.Rotate the dial both in clockwise and anti-clockwise directions for the whole 360o until you see a maximum light intensity in the right semicircle, matching the left semicircle exactly.  
-ix.Click on open record form and note down all the 4 different αobs angles where you observed maximum Intensity.  
+i. Click on any of the 6 sugar sample in the bottles on the shelves.  
+ii. Type in the amount of sugar (in gm/100mL) that you want to use for the experiment in the text box provided and then presses enter on the keyboard.  
+iii. Click on one of the sample cells to transfer the prepared sugar solution into a cell of particular path length.  
+iv. After transferring the contents into the sample cell, click on the sample cell to place it into the polarimeter's sample chamber.  
+v. Click on the power button to switch on the polarimeter to record the optical rotation of the sample.  
+vi. To rotate the dial of the eye piece in clockwise direction click on '+' button and for anticlockwise direction click on '-' button.  
+vii. To change the Increment Factor click on the IF* buttons 1, 5 or 10 accordingly.  
+viii. Rotate the dial both in clockwise and anti-clockwise directions for the whole 360o until you see a maximum light intensity in the right semicircle, matching the left semicircle exactly.  
+ix. Click on open record form and note down all the 4 different αobs angles where you observed maximum Intensity.  
 
 - Estimate the specific rotation [α] using the equation for liquids.  
 - Compare the obtained specific rotation [α] value against the table provided below to identify the identity of the sugar used in the experiment.  
