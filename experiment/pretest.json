@@ -1,0 +1,29 @@
+[
+{"question":"1. How does polarized light differ from the ordinary light? ",
+"answers":{
+            "a":"Polarized light have vibrations in single plane where as ordinary light have vibrations in more than one plane .",
+            "b":"Polarized light have vibrations in more than one plane where as ordinary light have vibrations in single plane",
+            "c":"Polarized light and ordinary light wave have opposite vibrations in the space .",
+            "d":"Polarized light have vibrations at 90o to the ordinary light wave vibrations."
+          },
+"correctAnswer":"a"},
+
+{"question":"2. What do you understand by polarized light and the plane of polarization?",
+"answers":{
+            "a":"Polarized light wave vibrations confined to single plane and plane of polarization is the plane in which the vector along which the light wave vibrates lies.",
+            "b":"Polarized light wave vibrations confined to more than one plane and plane of polarization is the plane in which the vector along which the light wave vibrates lies.",
+            "c":"Polarized light wave vibrations confined to more than one plane and plane of polarization is the plane at right angle to the vector along which the light wave vibrates lies.",
+            "d":"Polarized light wave vibrations confined to single plane and plane of polarization is the plane at right angle to the vector along which the light wave vibrates lies"
+          },
+"correctAnswer":"a"},
+
+{"question":"3. What are the factors on which the optical activity of a substance depends? ",
+"answers":{
+            "a":"Temperature, wavelength of light used, concentration of the substance.",
+            "b":"Temperature, wavelength of light used, concentration of substance and length of polarimeter tube.",
+            "c":"Wavelength of light used and concentration of substance.",
+            "d":"Temperature, wavelength of light used, and length of polarimeter tube."
+          },
+"correctAnswer":"b"}
+
+]

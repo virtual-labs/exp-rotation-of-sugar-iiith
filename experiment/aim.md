@@ -1,1 +1,7 @@
-### Aim of the experiment
+The study of optical activity of liquids began in the early 19th century with Biot and other scientists. They found that solutions of sugar and certain other naturally occurring chemicals would rotate a beam of polarized light passing through the solution. They called such substances optically active, a term which is still used. The instrument used to demonstrate or to measure this rotation was given the name polarimeter.
+
+Clockwise rotation is given a positive (+) sign; counterclockwise rotation is given a negative (-) sign. Certain substances rotate light to a much greater extent than others. Both the direction of rotation and the amount of rotation per gram of solute in a given volume of solution are characteristic properties and can be used to identify an unknown substance. When the identity of the solute is known, the polarimeter can be used to determine the concentration of the solution.
+
+It may be noted that approximately 25% of all drugs are marketed as either racemates (mixtures of two enantiomers) or mixtures of diasteromers. The orientation around a chiral center can have a dramatic impact on the pharmacological response of that drug in the human body. Such recent observations brought about severe tightening in the laws surrounding the introduction of new drugs into the market. Thus, chiral synthesis and purification became a crucial aspect of all successful drug manufacturing procedures. This is just one of the several areas highlighting the importance of polarimetric studies.
+
+Since polarized light is the basis for all studies of optical activity, you are advised to review the "Background principles" described in the home page of this laboratory. 
